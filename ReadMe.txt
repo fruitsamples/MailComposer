@@ -42,11 +42,11 @@ Frameworks and Weak Linking
 
 
 Build Requirements:
-Mac OS X 10.5.4 or later, Xcode 3.1.3, iPhone OS 3.0
+iOS 4.0 SDK
 
 
 Runtime Requirements:
-Mac OS X 10.5.4 or later, iPhone OS 2.0 or later
+iPhone OS 3.2 or later
 
 
 Using the Sample
@@ -73,5 +73,7 @@ The nib file containing the main window.
 MailComposerViewController.xib
 The view controller's nib file.
 
+Versions:
+1.1 - Upgraded project to build with the iOS 4.0 SDK.
 
-Copyright (c) 2009 Apple Inc. All rights reserved.
+Copyright (c) 2009-2010 Apple Inc. All rights reserved.
